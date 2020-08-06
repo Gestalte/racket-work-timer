@@ -8,7 +8,7 @@
 
 (define minutes-to-miliseconds
   (lambda (minutes)
-    (* minutes 6)))
+    (* minutes 60000)))
 
 (define (work-time) 25)
 (define (break-time) 5)
