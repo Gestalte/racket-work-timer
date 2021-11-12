@@ -16,3 +16,10 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 For the purposes of the technique, a pomodoro is the interval of time spent working.
 
 The above information was taken from [this Wikipedia article.](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+
+## Screen shots
+
+![racket-work-timer1](https://github.com/Gestalte/racket-work-timer/blob/master/work-timer1.PNG?raw=true)
+
+
+![racket-work-timer2](https://github.com/Gestalte/racket-work-timer/blob/master/work-timer2.PNG?raw=true)
